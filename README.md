@@ -1,6 +1,6 @@
 # SwiftLink - A Simple & Beautiful URL Shortener
 
-![SwiftLink Screenshot](https://i.imgur.com/xL8y2v0.png)
+![SwiftLink Screenshot](swiftlink.png)
 
 **SwiftLink** is a clean, modern, and efficient URL shortening service built with Node.js, Express, and MongoDB. It provides a simple API to create short links and redirects users to the original long URL, tracking the number of clicks along the way.
 
